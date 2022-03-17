@@ -99,3 +99,6 @@ transition: 3s ease all;
     display: inline-block;
     background-repeat: no-repeat;
 }
+.carrosel-filmes{
+    margin-top: 5px;
+}
